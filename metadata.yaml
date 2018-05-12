@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9268'
     url: http://www.gutenberg.org/2009/agents/9268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20388#Report-of-the-Railway-Department-of-the-Board-of-Trade-on-the-London-Worcester-and-Wolverhamp_
 gutenberg_issued: '2007-01-16'
 gutenberg_type: Text
 identifiers:
